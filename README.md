@@ -31,19 +31,19 @@ Un bot de modmail simple à utiliser utilisant la dernière version de Discord.j
 ## **Images**
 
 #### Bot
-![Bot](https://cdn.discordapp.com/attachments/937757443893637231/1276895413932261507/image.png?ex=66cb3106&is=66c9df86&hm=6f429f970bd968deb96066e0c0629ab61eef5757872a71b15571b362321ab9db&)
+![Bot](https://cdn.discordapp.com/attachments/937757443893637231/1276895413932261507/image.png?ex=66d70e86&is=66d5bd06&hm=8c8cfbafac4aadda6f76d0773f867ba19c564dca09710d98c0c9fc0612fd7154&)
 
 #### Configuration
-![Configuration](https://cdn.discordapp.com/attachments/937757443893637231/1276895754945953883/image.png?ex=66cb3157&is=66c9dfd7&hm=68b828f1614bd387f38b42c9628db26fbe0c0852de296fb990135bb4a09368d3&)
+![Configuration](https://cdn.discordapp.com/attachments/937757443893637231/1276895754945953883/image.png?ex=66d70ed7&is=66d5bd57&hm=5a498e23e4d80a20999fb994f4355d4f46b2ee7fc762c3532f6e7d9f42064d3a&)
 
 #### Ticket en privé (côté membre)
-![Ticket en privé (côté membre)](https://cdn.discordapp.com/attachments/937757443893637231/1276896351396958338/image.png?ex=66cb31e5&is=66c9e065&hm=665734dc1e66a863818e1446905a307aa7cb7ccb36809cadfffeb310187a4fd5&)
+![Ticket en privé (côté membre)](https://cdn.discordapp.com/attachments/937757443893637231/1276896351396958338/image.png?ex=66d70f65&is=66d5bde5&hm=3c4ff6f24fa3b96922af89ea7bc616a614a213cba897242dba4779e267cd345b&)
 
 #### Ticket en privé (côté staff)
-![Ticket en privé (côté staff)](https://cdn.discordapp.com/attachments/937757443893637231/1276896383810539712/image.png?ex=66cb31ed&is=66c9e06d&hm=094bd0b8da6b67632ba1420ea49767a384b3c84ad753366b07363f85a4dae57a&)
+![Ticket en privé (côté staff)](https://cdn.discordapp.com/attachments/937757443893637231/1276896383810539712/image.png?ex=66d70f6d&is=66d5bded&hm=96ae2c44efc96b8ce18eb46765a339f7608a3bd5feb89d13f7c918a2bcbff777&)
 
 #### Fermeture ticket (côté membre)
-![Fermeture ticket (côté membre)](https://cdn.discordapp.com/attachments/937757443893637231/1276896616808190023/image.png?ex=66cb3225&is=66c9e0a5&hm=bba98f7a18eda55d0d84e2ff298da34f2fbe8ef36cb5fce579f84c27ebd3c3aa&)
+![Fermeture ticket (côté membre)](https://cdn.discordapp.com/attachments/937757443893637231/1276896616808190023/image.png?ex=66d70fa5&is=66d5be25&hm=2ea667a4f5cf41695d2d9297a3dac66dce4bfa989227a9161b2e8057943415c0&)
 
 ## Contribution
 > Pour me soutenir vous pouvez ajouter une étoile au dépôt et/ou me faire un don sur [BuyMeACoffee](https://buymeacoffee.com/mmonfray)
