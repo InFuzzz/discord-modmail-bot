@@ -11,7 +11,7 @@ Un bot de modmail simple à utiliser utilisant la dernière version de Discord.j
 > 1. Création d'un bot discord sur [le portail de développement de Discord](https://discord.com/developers/applications)
 > 2. Créez un dossier puis clonez le dépôt github avec la commande
 >   ```shell
->   git clone https://github.com/ton-utilisateur/discord-modmail-bot.git
+>   git clone https://github.com/infuzzz/discord-modmail-bot.git
 >   ```
 > 3. Installez les dépendance avec npm (assurez vous d'avoir installé [Node.js](https://nodejs.org/fr))
 > 4. Configurez le fichier `config.json`
